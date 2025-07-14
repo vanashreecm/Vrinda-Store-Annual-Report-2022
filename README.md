@@ -39,4 +39,7 @@ The objective of this dashboard is to:
 
 **This dashboard empowers decision-makers with an intuitive and intelligent interface to track performance, identify patterns, and optimise the retail strategy.**
 
+Dashboard: 
+
+
 
