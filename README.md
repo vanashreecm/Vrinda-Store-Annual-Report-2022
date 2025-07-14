@@ -39,7 +39,7 @@ The objective of this dashboard is to:
 
 **This dashboard empowers decision-makers with an intuitive and intelligent interface to track performance, identify patterns, and optimise the retail strategy.**
 
-Dashboard: 
-https://github.com/vanashreecm/Vrinda-Store-Annual-Report-2022/blob/main/Screenshot%202025-07-14%20130514.png
+Dashboard:<a href "https://github.com/vanashreecm/Vrinda-Store-Annual-Report-2022/blob/main/Screenshot%202025-07-14%20130514.png">dashboard Viwe</a>
+<img width="1244" height="391" alt="Screenshot 2025-07-14 130514" src="https://github.com/user-attachments/assets/e751f7ed-66b5-45c0-862f-05524924a415" />
 
 
