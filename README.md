@@ -3,7 +3,7 @@
 📦 Sales Performance Dashboard – Apparel Retail
 
 **📌Business Problem**  
-Retail businesses, particularly in the apparel sector, frequently encounter challenges in understanding sales behaviour across diverse customer segments, channels, and regions. Without clear visibility into order patterns, demographics, and fulfilment status, it's hard to identify what's working and what’s holding growth back. This dashboard addresses the need for holistic data analysis to enhance customer satisfaction and streamline operations.
+     Retail businesses, particularly in the apparel sector, frequently encounter challenges in understanding sales behaviour across diverse customer segments, channels, and      regions. Without clear visibility into order patterns, demographics, and fulfilment status, it's hard to identify what's working and what’s holding growth back. This        dashboard addresses the need for holistic data analysis to enhance customer satisfaction and streamline operations.
 
 **Dashboard Goal**  
 The objective of this dashboard is to:
@@ -29,13 +29,13 @@ The objective of this dashboard is to:
 
 **✅Efficient Fulfilment**: High delivery rate and low cancellation/refund metrics imply operational excellence and strong customer satisfaction.
 
-**👩‍🦰Target Demographics**: Sales are female-heavy, especially among adult shoppers, suggesting opportunities for tailored offers    and loyalty programs.
+**👩‍🦰Target Demographics**: Sales are female-heavy, especially among adult shoppers, suggesting opportunities for tailored offers and loyalty programs.
 
 **🌍Geographic Focus**: Maharashtra and Karnataka present lucrative markets for deeper engagement and distribution efforts.
 
-**🛍️Channel Strategy**: Ajio and Amazon are key contributors—understanding their dynamics can refine platform-specific tactics     and partnerships.
+**🛍️Channel Strategy**: Ajio and Amazon are key contributors—understanding their dynamics can refine platform-specific tactics and partnerships.
 
-**🕵️‍♂️Age-Specific Insights**: Adults dominate spending, highlighting the need to tailor communication and product bundles for       their preferences.
+**🕵️‍♂️Age-Specific Insights**: Adults dominate spending, highlighting the need to tailor communication and product bundles for their preferences.
 
 **This dashboard empowers decision-makers with an intuitive and intelligent interface to track performance, identify patterns, and optimise the retail strategy.**
 
