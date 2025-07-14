@@ -1,6 +1,7 @@
 # Vrinda-Store-Annual-Report-2022
 
 📦 Sales Performance Dashboard – Apparel Retail
+
 📌 Business Problem  
 Retail businesses, particularly in the apparel sector, frequently encounter challenges in understanding sales behaviour across diverse customer segments, channels, and regions. Without clear visibility into order patterns, demographics, and fulfilment status, it's hard to identify what's working and what’s holding growth back. This dashboard addresses the need for holistic data analysis to enhance customer satisfaction and streamline operations.
 
